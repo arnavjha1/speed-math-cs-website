@@ -33,7 +33,7 @@ const SpeedAbout = () => {
             About <span className="text-gradient-speed">Speed Math & CS</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
-            We provide coding education for students in grade 3 and above, helping them build the skills they need to thrive in a technology-driven world.
+            Founded in July 2024, we provide coding education for students in grade 3 and above, helping them build the skills they need to thrive in a technology-driven world.
           </p>
         </div>
 

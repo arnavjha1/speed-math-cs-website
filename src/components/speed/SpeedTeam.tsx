@@ -3,16 +3,16 @@ import { User } from 'lucide-react';
 
 const teamMembers = [
   {
-    name: 'Alex Chen',
-    role: 'Founder & Lead Instructor',
-    bio: 'Passionate about teaching coding to young minds with 10+ years of experience.',
+    name: 'Arnav Jha',
+    role: 'Founder & Co-President',
+    bio: 'Passionate about teaching coding to young minds with 3+ years of experience. Designs engaging learning experiences that make coding fun and accessible. Arnav is dedicated to inspiring the next generation of programmers through innovative code camps and hackathons.',
   },
   {
-    name: 'Sarah Johnson',
-    role: 'Curriculum Director',
-    bio: 'Designs engaging learning experiences that make coding fun and accessible.',
+    name: 'Sidhaanth Kapoor',
+    role: 'Co-President',
+    bio: 'Sidhaanth is the visionary founder of SMART Hacks, driven by a strong passion for empowering the next generation of tech innovators. He is the main force behind planning code camps and hackathons, bringing five years of coding experience to the table. His leadership and technical expertise are key to inspiring participants and creating a vibrant community.',
   },
-  {
+  /*{
     name: 'Mike Williams',
     role: 'Python Instructor',
     bio: 'Software engineer who loves introducing students to the world of programming.',
@@ -31,7 +31,7 @@ const teamMembers = [
     name: 'Rachel Kim',
     role: 'Events Coordinator',
     bio: 'Organizes workshops and events that bring our community together.',
-  },
+  },*/
 ];
 
 const SpeedTeam = () => {

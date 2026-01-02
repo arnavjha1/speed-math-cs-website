@@ -45,7 +45,7 @@ const SpeedContact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold">Email Us</h3>
-                  <p className="text-muted-foreground">contact@speedmathcs.org</p>
+                  <p className="text-muted-foreground">arnavjha2027@gmail.com</p>
                 </div>
               </CardContent>
             </Card>

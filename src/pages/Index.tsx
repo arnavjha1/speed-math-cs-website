@@ -27,8 +27,8 @@ const Index = () => {
     <div className="min-h-screen flex flex-col">
       <AlertBanner
         message={branch === 'speed' 
-          ? "🎉 New Python class starting January 15th!" 
-          : "🚀 Smart Hacks 2026 registration now open!"}
+          ? "🎉 New Python/ML & Web Dev Classes starting Jan 17!" 
+          : "🚀 DECEMBER AI CHALLENGE - Deadline Jan 3rd!"}
         link="#events"
         linkText="Learn more"
       />

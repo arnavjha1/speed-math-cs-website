@@ -4,35 +4,35 @@ import { Calendar, MapPin, Clock } from 'lucide-react';
 
 const events = [
   {
-    title: 'Introduction to Python',
-    date: 'January 15, 2026',
-    time: '3:00 PM - 5:00 PM',
-    location: 'Online - Zoom',
-    description: 'A beginner-friendly workshop introducing Python programming basics.',
+    title: 'Intro to Python / ML & Web Development - Jan Classes',
+    date: 'January 17 - 21, 2026',
+    time: '7:00 PM - 8:00 PM PST',
+    location: 'Online - Google Meet',
+    description: 'New classes starting January 17th focusing on Python programming, machine learning basics, and web development fundamentals using HTML, CSS, and JavaScript.',
     isNew: true,
   },
-  {
+  /*{
     title: 'Web Development Bootcamp',
     date: 'January 22, 2026',
     time: '10:00 AM - 2:00 PM',
     location: 'Community Center',
     description: 'Learn HTML, CSS, and JavaScript in this hands-on bootcamp.',
-    isNew: true,
-  },
+    isNew: false,
+  },*/
   {
-    title: 'Game Development with Scratch',
-    date: 'February 5, 2026',
-    time: '4:00 PM - 6:00 PM',
-    location: 'Online - Zoom',
-    description: 'Create your own video games using Scratch programming.',
+    title: 'AP Tutoring Sessions',
+    date: 'April 21st - May 2nd, 2025',
+    time: 'Depended on AP course',
+    location: 'Online - Google Meet',
+    description: 'Personalized tutoring sessions to help students prepare for their AP exams in Computer Science A and Computer Science Principles, and several other APs such as AP Physics C: E&M, AP Calculus AB, and AP Micro/Macro. Started the development of an app called learn-elo to help people study for their APs: <a href="https://learn-elo.vercel.app">https://learn-elo.vercel.app</a>',
     isNew: false,
   },
   {
-    title: 'Math & Logic Puzzles',
-    date: 'February 12, 2026',
-    time: '3:00 PM - 4:30 PM',
-    location: 'Local Library',
-    description: 'Sharpen your problem-solving skills with fun math challenges.',
+    title: 'AMC8, AMC10, and MathCounts Prep Workshop',
+    date: 'December 22 - 26, 2024',
+    time: '4:00 PM - 5:00 PM PST',
+    location: 'Online - Google Meet',
+    description: 'Our first classes ever focused on preparing students for math competitions like AMC8, AMC10, and MathCounts.',
     isNew: false,
   },
 ];
@@ -43,7 +43,7 @@ const SpeedEvents = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Upcoming <span className="text-gradient-speed">Events</span>
+            Upcoming & Past <span className="text-gradient-speed">Events</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
             Join our coding classes and workshops designed for young learners.
