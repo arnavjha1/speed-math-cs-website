@@ -10,7 +10,7 @@ const teamMembers = [
   {
     name: 'Sidhaanth Kapoor',
     role: 'Co-President',
-    bio: 'Sidhaanth is the visionary founder of SMART Hacks, driven by a strong passion for empowering the next generation of tech innovators. He is the main force behind planning code camps and hackathons, bringing five years of coding experience to the table. His leadership and technical expertise are key to inspiring participants and creating a vibrant community.',
+    bio: 'Sidhaanth is the visionary leader of SPEED, driven by a strong passion for empowering the next generation of tech innovators. He is the main force behind planning code camps and hackathons, bringing five years of coding experience to the table. His leadership and technical expertise are key to inspiring participants and creating a vibrant community.',
   },
   /*{
     name: 'Mike Williams',
